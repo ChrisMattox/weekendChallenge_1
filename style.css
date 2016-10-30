@@ -1,0 +1,106 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+  background-color: teal;
+  border-bottom: 1pt dotted black;
+  padding: 10pt;
+  text-align: center;
+  margin-top: 5px;
+  background-color: teal;
+  border: none;
+  color: white;
+}
+
+h2 {
+  background-color: teal;
+  border-bottom: 1pt dotted black;
+  padding: 10pt;
+  text-align: center;
+  margin-top: 5px;
+  background-color: teal;
+  border: none;
+  color: white;
+}
+
+.form {
+  text-align: center;
+   }
+
+#container {
+  border: 1px dotted blue;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: white;
+  text-align: center;
+}
+
+#employeeInfo {
+  padding: 10px;
+  background-color: white;
+  text-align: center;
+}
+
+.clicked {
+  border-color: red;
+}
+
+input, label {
+  align-content: center;
+}
+
+th {
+  padding-left: 20px;
+  margin-left: 20px;
+}
+
+
+tr, th, tr, td {
+
+border: 1px solid #d3d3d3;
+padding: 10px;
+position: inherit;
+background-color: teal;
+margin-left: 8em;
+
+}
+
+#button {
+    margin-top: 5px;
+    background-color: teal;
+    border: none;
+    color: white;
+}
+
+#montlySalaries {
+  border: 1px solid #d3d3d3;
+  padding: 10px;
+  position: inherit;
+  background-color: white;
+
+}
+
+label {
+    position: absolute;
+}
+
+input {
+    margin-left: 18em;
+}
+
+/*p {
+  color: white;
+}*/
+
+img {
+max-width: none;
+max-height: 6%;
+ float: left;
+ margin-bottom: 10px;
+ padding: 10px
+}
+
+table {
+  margin: 0 auto;
+}
